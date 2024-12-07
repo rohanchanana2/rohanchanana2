@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rohan Chanana</h1>
 
-<img align="right" alt="Coding" width="400" src="https://i.postimg.cc/hPZXkrK2/octocat-1731450459356.png">
-
 <div style="padding: 0; margin: 0;">
   <p>🔭 Currently working on developing embedded systems and AI applications, focusing on creating solutions that push the boundaries of technology.</p>
   <p>🌱 Passionate about AI and Electronics, always exploring cutting-edge technologies to integrate into innovative projects that make a real-world impact.</p>
